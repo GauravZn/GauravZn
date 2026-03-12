@@ -3,9 +3,9 @@
 
   <br/>
 
-  # GauravZn.$
+  # `GauravZn:~$`
   
-  `MERN` • `DSA` • `No-Mouse` • `Cyan-Theme`
+  `MERN` • `DSA` • `NO_MOUSE` • `CYAN_8BIT`
 
   ---
 </div>
